@@ -10,6 +10,7 @@
             padding: 10px;
             padding-top: 7px;
             max-width: 420px;
+            margin-right: 50px;
         }
     }
     body{
@@ -42,7 +43,7 @@
         }
         .sidebar{
             margin-top: 30px;
-            width: 25% !important;
+            width: 60% !important;
         }
     }
 }
@@ -80,12 +81,12 @@
                 img{
                     height: 135px;
                 }    
-            height: 230px;
+            height: 100px;
             }
         }
             .sidebar{
                 margin-top: 30px;
-                width: 35% !important;
+                width: 60% !important;
             }
         
     }
@@ -104,9 +105,6 @@
                 .player-container{
                     margin-top: 0px;
                 }
-                .title{
-                    height: 135px;
-                }
             }
         }
     }
@@ -116,12 +114,13 @@
     #header{
         h1{
             max-width: 300px;
+            margin-right: 50px;
         }
     }
     .container{
         .sidebar{
             margin-top: 30px;
-            width: 40% !important;
+            width: 60% !important;
         } 
     }
 }
@@ -141,7 +140,7 @@
     .container{
         .sidebar{
             margin-top: 30px;
-            width: 50% !important;
+            width: 60% !important;
         }           
         .post{
             .info{
@@ -159,6 +158,7 @@
         margin-bottom: 100px;
         h1{
             max-width: 200px;
+            margin-right: 50px;
         }
     }
     body{
