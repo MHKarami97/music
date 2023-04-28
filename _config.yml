@@ -2,7 +2,7 @@
 title: "آهنگ‌کده"
 description: "آهنگ‌ها"
 podcast-description: "آهنگ‌ها"
-url:  "https:/music.mhkarami97.ir" # Actual base url of the website
+url:  "https://music.mhkarami97.ir" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Mohammad Hossein Karami"
