@@ -13,7 +13,14 @@ layout: default
   </div>
 
   <div class=title>
-    <h2 id="post-title"><a href="{{ post.url  | absolute_url }}">{{ post.title }}</a></h2>
+    <h2 id="post-title"><a href="{{ post.url  | absolute_url }}">{{ post.title }}</a>
+    (
+      {% for category in post.categories %}
+      <a href="/categories" style="font-size: small;font-weight: 70;">#{{category}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    )
+    </h2>
   </div>
 
   <div class="categories">
