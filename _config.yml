@@ -32,7 +32,7 @@ twitter:
   card: summary
 facebook:
   app_id: 
-logo: /assets/img/Podcast_Cover.png
+logo: /assets/img/my.jpg
 social:
   name: mhkarami97
   links:
@@ -52,4 +52,4 @@ podcast_lang: fa
 podcast_launch: "2023-04-27" #Launch date of your podcast
 podcast_copyright: "&#xA9;mhkarami97"
 podcast_feed: 
-podcast_artwork: "/assets/img/Podcast_Cover.png"
+podcast_artwork: "/assets/img/my.jpg"
