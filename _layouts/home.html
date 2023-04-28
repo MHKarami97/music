@@ -19,7 +19,7 @@ layout: default
   <div class="categories">
     {% assign categories = page.categories %}
     {% for category in post.categories %}
-    <a href="/categories">{{category}}</a>
+    <a href="/categories">#{{category}}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
   </div>
