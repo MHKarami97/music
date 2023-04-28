@@ -1,8 +1,8 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'Music', link: '#'}
-  - {name: 'Episodes', link: 'episodes.html'}
+  - {name: 'لیست', link: 'episodes.html'}
+  - {name: 'دسته‌بندی', link: 'categories'}
 
 social:
   - {icon: 'site', type: "brand", link: 'https://mhkarami97.ir'}
@@ -10,7 +10,7 @@ social:
   - {icon: 'rss', type: "solid", link: "#"}
 
 websites-podcast:
-  - {name: 'RSS', link: '#'}
+  - {name: 'mhkarami97', link: 'https://mhkarami97.ir'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true
