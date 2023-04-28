@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Episodes
+title: All Musics
 ---
 <div class = "episodes">
 
-<h2> Episodes </h2>
+<h2> آهنگ‌ها </h2>
 <ul>
 {% for post in site.posts %}    
     {% if post.type == "main" %}
@@ -16,7 +16,7 @@ title: Episodes
 {% endfor %}
 </ul>
 
-<h2> Extra Episodes </h2>
+<h2> دیگر آهنگ‌ها </h2>
 <ul>
 {% for post in site.posts %}    
     {% if post.type == "extra" %}

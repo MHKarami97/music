@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /categories
-title: Categories
+title: دسته‌بندی
 ---
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
