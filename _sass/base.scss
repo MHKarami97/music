@@ -1,13 +1,22 @@
 $base-color: #01a0e4;
 $darker-color: rgba(0, 160, 227, 0.2);
 
+@font-face {
+    font-family: 'BYekan';
+    src: url('/assets/fonts/BYekan.ttf') format("truetype"),
+      url('/assets//fonts/BYekan.eot') format("eot"),
+      url('/assets//fonts/BYekan.woff') format("woff");
+    font-style: normal;
+    font-weight: 400;
+  }
+
 * {
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
             box-sizing: border-box;
             margin: 0px;
             padding: 0px;
-            font-family: tahoma;
+            font-family: 'BYekan', 'Tahoma',;
 }
 html{
     scroll-behavior: smooth;
