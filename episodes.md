@@ -1,6 +1,6 @@
 ---
 layout: default
-title: All Musics
+title: تمام آهنگ‌ها
 ---
 <div class = "episodes">
 
