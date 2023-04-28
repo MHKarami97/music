@@ -15,16 +15,4 @@ title: All Musics
 
 {% endfor %}
 </ul>
-
-<h2> دیگر آهنگ‌ها </h2>
-<ul>
-{% for post in site.posts %}    
-    {% if post.type == "extra" %}
-        <li>
-            <a href="{{ post.url }}"> {{ post.title }} </a>
-        </li>
-    {% endif %}
-
-{% endfor %}
-</ul>
 </div> 

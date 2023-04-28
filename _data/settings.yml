@@ -5,15 +5,13 @@ pages:
   - {name: 'دسته‌بندی', link: 'categories'}
 
 social:
-  - {icon: 'site', type: "brand", link: 'https://mhkarami97.ir'}
   - {icon: 'envelope', type: "solid", link: 'mailto:mhkarami97@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "#"}
 
 websites-podcast:
   - {name: 'mhkarami97', link: 'https://mhkarami97.ir'}
 
 translate-date: true #See _includes/date.html to translate the months' name
-shownotes: true
+shownotes: false
 
 #Disqus
 disqus:
