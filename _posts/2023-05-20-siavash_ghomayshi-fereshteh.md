@@ -1,7 +1,7 @@
 ---
 layout: post
 layout: main
-title:  Fereshteh
+title: Fereshteh
 categories: [siavash_ghomayshi]
-file: /assets/music/siavash_ghomayshi.mp3
+file: /assets/music/siavash_ghomayshi-fereshteh.mp3
 ---

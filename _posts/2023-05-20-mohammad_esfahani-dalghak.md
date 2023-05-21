@@ -1,7 +1,7 @@
 ---
 layout: post
 layout: main
-title:  Dalghak
+title: Dalghak
 categories: [mohammad_esfahani]
-file: /assets/music/mohammad_esfahani.mp3
+file: /assets/music/mohammad_esfahani-dalghak.mp3
 ---

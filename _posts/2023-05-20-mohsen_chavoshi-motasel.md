@@ -1,7 +1,7 @@
 ---
 layout: post
 layout: main
-title:  Motasel
+title: Motasel
 categories: [mohsen_chavoshi]
-file: /assets/music/mohsen_chavoshi.mp3
+file: /assets/music/mohsen_chavoshi-motasel.mp3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 layout: main
-title:  Nabashi
+title: Nabashi
 categories: [mohsen_yeganeh]
-file: /assets/music/mohsen_yeganeh.mp3
+file: /assets/music/mohsen_yeganeh-nabashi.mp3
 ---

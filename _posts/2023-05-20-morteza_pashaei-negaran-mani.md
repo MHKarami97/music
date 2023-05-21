@@ -1,7 +1,7 @@
 ---
 layout: post
 layout: main
-title:  Negaran Mani
+title: Negaran Mani
 categories: [morteza_pashaei]
-file: /assets/music/morteza_pashaei.mp3
+file: /assets/music/morteza_pashaei-negaran-mani.mp3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 layout: main
-title:  Na Fereshteam Na Sheytan
+title: Na Fereshteam Na Sheytan
 categories: [homayoun_shajarian]
-file: /assets/music/homayoun_shajarian.mp3
+file: /assets/music/homayoun_shajarian-na-fereshteam-na-sheytan.mp3
 ---

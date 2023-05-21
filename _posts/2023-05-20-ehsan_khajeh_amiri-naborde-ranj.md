@@ -1,7 +1,7 @@
 ---
 layout: post
 layout: main
-title:  Naborde Ranj
+title: Naborde Ranj
 categories: [ehsan_khajeh_amiri]
-file: /assets/music/ehsan_khajeh_amiri.mp3
+file: /assets/music/ehsan_khajeh_amiri-naborde-ranj.mp3
 ---

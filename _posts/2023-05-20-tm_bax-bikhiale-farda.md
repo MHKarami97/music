@@ -1,7 +1,7 @@
 ---
 layout: post
 layout: main
-title:  Bikhiale Farda
+title: Bikhiale Farda
 categories: [tm_bax]
-file: /assets/music/tm_bax.mp3
+file: /assets/music/tm_bax-bikhiale-farda.mp3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 layout: main
-title: 
+title:
 categories: [nooshafarin_Salam]
 file: /assets/music/nooshafarin_Salam.mp3
 ---
