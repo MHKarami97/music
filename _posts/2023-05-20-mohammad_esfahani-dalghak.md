@@ -1,3 +1,4 @@
+---
 title: Dalghak
 layout: post
 categories: [mohammad_esfahani]

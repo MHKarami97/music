@@ -1,3 +1,4 @@
+---
 title: Boale
 layout: post
 categories: [tm_bax]

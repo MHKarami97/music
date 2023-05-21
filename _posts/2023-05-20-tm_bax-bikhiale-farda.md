@@ -1,3 +1,4 @@
+---
 title: Bikhiale Farda
 layout: post
 categories: [tm_bax]

@@ -1,3 +1,4 @@
+---
 title: Negaran Mani
 layout: post
 categories: [morteza_pashaei]

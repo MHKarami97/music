@@ -1,3 +1,4 @@
+---
 title: Delbar Man
 layout: post
 categories: [homayoun_an]
