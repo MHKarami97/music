@@ -1,7 +1,7 @@
 ---
 title: Bidar Sho
 layout: post
-categories: [همایون_شجریان]
+categories: [homayoun_shajarian]
 type: main
 file: /assets/music/homayoun_shajarian-bidar-sho.mp3
 ---
